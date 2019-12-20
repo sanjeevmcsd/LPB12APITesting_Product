@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="http://expertz.me/data/eCommerce/ShoppingService/1.0">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <ns:loginRequest>
+         <ns:username>ExpertzMe</ns:username>
+         <ns:password>Welcome1</ns:password>
+      </ns:loginRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
